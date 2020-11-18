@@ -7,3 +7,5 @@
 - 📫 How to reach me: anil_aydinn@outlook.com / Discord: Anıl#4526
 
 [![Anıl's github stats](https://github-readme-stats.vercel.app/api?username=anilaydinn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilaydinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
