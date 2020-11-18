@@ -9,3 +9,5 @@
 [![Anıl's github stats](https://github-readme-stats.vercel.app/api?username=anilaydinn)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilaydinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anıl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anilaydinn)](https://github.com/anuraghazra/github-readme-stats)
