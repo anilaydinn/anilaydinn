@@ -5,3 +5,5 @@
 - :penguin: I love Linux.
 - 💬 Ask me about software.
 - 📫 How to reach me: anil_aydinn@outlook.com / Discord: Anıl#4526
+
+[![Anıl's github stats](https://github-readme-stats.vercel.app/api?username=anilaydinn)](https://github.com/anuraghazra/github-readme-stats)
