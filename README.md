@@ -6,6 +6,6 @@
 - 💬 Ask me about software.
 - 📫 How to reach me: anil_aydinn@outlook.com / Discord: Anıl#4526
 
-[![Anıl's github stats](https://github-readme-stats.vercel.app/api?username=anilaydinn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anıl's github stats](https://github-readme-stats.vercel.app/api?username=anilaydinn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
