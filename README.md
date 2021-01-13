@@ -8,4 +8,4 @@
 
 [![Anıl's github stats](https://github-readme-stats.vercel.app/api?username=anilaydinn&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=anilaydinn&color=brightgreen)
