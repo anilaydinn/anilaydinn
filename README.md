@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- :computer: I'm currently working at kartelam.com
 - 🔭 I’m currently working on Javascript and Golang
 - 🌱 I’m currently learning Kubernetes and Docker
 - :penguin: I love Linux.
