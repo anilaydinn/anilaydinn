@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- :computer: I'm currently working at <a href="http://www.kartelam.com">kartelam.com</a>
-- 🔭 I’m currently working on Javascript and Golang
-- 🌱 I’m currently learning Kubernetes and Docker
+- :computer: I'm currently working at <a href="http://www.enuygun.com">enuygun.com</a>
+- 🔭 I’m currently working on Javascript
 - :penguin: I love Linux.
 - 💬 Ask me about software.
 - 📫 How to reach me: <a href="http://anilaydin.me">anilaydin.me</a>
