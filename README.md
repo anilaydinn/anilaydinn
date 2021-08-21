@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on Javascript
 - :penguin: I love Linux.
 - 💬 Ask me about software.
-- 📫 How to reach me: <a href="http://anilaydin.me">anilaydin.me</a>
 
 [![Anıl's github stats](https://github-readme-stats.vercel.app/api?username=anilaydinn&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
